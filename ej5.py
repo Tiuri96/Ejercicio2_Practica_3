@@ -1,4 +1,4 @@
-número = float(input('Inserte el número de grados (Fahrenheit): '))
+número = int(input('Inserte el número de grados (Fahrenheit): '))
 
 print('Hay', número, 'grados (Fahrenheit)')
 
