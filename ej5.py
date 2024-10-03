@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 letra = float(input('Inserte el número de grados (Fahrenheit): '))
+=======
 número = int(input('Inserte el número de grados (Fahrenheit): '))
+>>>>>>> origin/x
 
 print('Hay', número, 'grados (Fahrenheit)')
 
